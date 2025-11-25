@@ -11,9 +11,10 @@ A simple Python command-line tool to encrypt and decrypt files using a password 
 ## Requirements
 - Python 3.x
 
-## Installation
-Clone the repository:
-
-```bash
+## Installation & Usage
+Clone the repository and run the script:
 git clone https://github.com/CIBIKRAKER/CLI_Encryption.git
 cd CLI_Encryption
+python main.py
+
+Follow the prompts to encrypt or decrypt a file.
